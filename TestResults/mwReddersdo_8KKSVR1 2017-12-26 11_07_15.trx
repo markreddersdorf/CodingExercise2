@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="292a52ed-f823-4fb8-9ea0-3c17afc686a2" name="mwReddersdo@8KKSVR1 2017-12-26 11:07:15" runUser="CORPORATE\mwReddersdo" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="cef412e1-a388-41dc-8638-5803d0d69318">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="mwReddersdo_8KKSVR1 2017-12-26 11_07_15">
+      <DeploymentItem filename="c:\users\mwreddersdo\documents\visual studio 2010\projects\CodingExercise\CodingExercise\bin\Debug\CodingExercise.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2017-12-26T11:07:15.5790950-05:00" queuing="2017-12-26T11:07:15.7111082-05:00" start="2017-12-26T11:07:15.7291100-05:00" finish="2017-12-26T11:07:16.1211492-05:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="strBankNameTest" storage="c:\users\mwreddersdo\documents\visual studio 2010\projects\codingexercise\unittests\bin\debug\unittests.dll" id="c536e429-2ca0-e28e-e295-f7354abc8c2a">
+      <Execution id="36d984f5-045b-43d7-9d46-87e806ff08ba" />
+      <TestMethod codeBase="c:/users/mwreddersdo/documents/visual studio 2010/projects/CodingExercise/UnitTests/bin/Debug/UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTests.clsBankTest, UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="strBankNameTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="c536e429-2ca0-e28e-e295-f7354abc8c2a" executionId="36d984f5-045b-43d7-9d46-87e806ff08ba" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="36d984f5-045b-43d7-9d46-87e806ff08ba" testId="c536e429-2ca0-e28e-e295-f7354abc8c2a" testName="strBankNameTest" computerName="8KKSVR1" duration="00:00:00.0108887" startTime="2017-12-26T11:07:15.7341105-05:00" endTime="2017-12-26T11:07:16.0831454-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="36d984f5-045b-43d7-9d46-87e806ff08ba">
+    </UnitTestResult>
+  </Results>
+</TestRun>

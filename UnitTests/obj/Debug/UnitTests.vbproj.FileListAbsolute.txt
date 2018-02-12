@@ -1,0 +1,10 @@
+c:\users\mwreddersdo\documents\visual studio 2010\projects\CodingExercise\UnitTests\bin\Debug\UnitTests.dll
+c:\users\mwreddersdo\documents\visual studio 2010\projects\CodingExercise\UnitTests\bin\Debug\UnitTests.pdb
+c:\users\mwreddersdo\documents\visual studio 2010\projects\CodingExercise\UnitTests\bin\Debug\UnitTests.xml
+c:\users\mwreddersdo\documents\visual studio 2010\projects\CodingExercise\UnitTests\bin\Debug\CodingExercise.exe
+c:\users\mwreddersdo\documents\visual studio 2010\projects\CodingExercise\UnitTests\bin\Debug\CodingExercise.pdb
+c:\users\mwreddersdo\documents\visual studio 2010\projects\CodingExercise\UnitTests\bin\Debug\CodingExercise.xml
+c:\users\mwreddersdo\documents\visual studio 2010\projects\CodingExercise\UnitTests\obj\Debug\UnitTests.vbprojResolveAssemblyReference.cache
+c:\users\mwreddersdo\documents\visual studio 2010\projects\CodingExercise\UnitTests\obj\Debug\UnitTests.dll
+c:\users\mwreddersdo\documents\visual studio 2010\projects\CodingExercise\UnitTests\obj\Debug\UnitTests.xml
+c:\users\mwreddersdo\documents\visual studio 2010\projects\CodingExercise\UnitTests\obj\Debug\UnitTests.pdb

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+UnitTests
+</name>
+</assembly>
+<members>
+<member name="P:UnitTests.clsAccountTest.TestContext">
+	<summary>
+Gets or sets the test context which provides
+information about and functionality for the current test run.
+</summary>
+</member><member name="M:UnitTests.clsAccountTest.DepositTest">
+	<summary>
+A test for Deposit
+</summary>
+</member><member name="M:UnitTests.clsAccountTest.TransferTest">
+	<summary>
+A test for Transfer
+</summary>
+</member><member name="M:UnitTests.clsAccountTest.WithdrawlTest">
+	<summary>
+A test for Withdrawl
+</summary>
+</member><member name="T:UnitTests.clsAccountTest">
+	<summary>
+This is a test class for clsAccountTest and is intended
+to contain all clsAccountTest Unit Tests
+</summary>
+</member>
+</members>
+</doc>

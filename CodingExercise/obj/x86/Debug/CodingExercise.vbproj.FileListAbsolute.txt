@@ -1,0 +1,8 @@
+c:\users\mwreddersdo\documents\visual studio 2010\projects\CodingExercise\CodingExercise\bin\Debug\CodingExercise.exe
+c:\users\mwreddersdo\documents\visual studio 2010\projects\CodingExercise\CodingExercise\bin\Debug\CodingExercise.pdb
+c:\users\mwreddersdo\documents\visual studio 2010\projects\CodingExercise\CodingExercise\bin\Debug\CodingExercise.xml
+c:\users\mwreddersdo\documents\visual studio 2010\projects\CodingExercise\CodingExercise\obj\x86\Debug\CodingExercise.Resources.resources
+c:\users\mwreddersdo\documents\visual studio 2010\projects\CodingExercise\CodingExercise\obj\x86\Debug\CodingExercise.vbproj.GenerateResource.Cache
+c:\users\mwreddersdo\documents\visual studio 2010\projects\CodingExercise\CodingExercise\obj\x86\Debug\CodingExercise.exe
+c:\users\mwreddersdo\documents\visual studio 2010\projects\CodingExercise\CodingExercise\obj\x86\Debug\CodingExercise.xml
+c:\users\mwreddersdo\documents\visual studio 2010\projects\CodingExercise\CodingExercise\obj\x86\Debug\CodingExercise.pdb
